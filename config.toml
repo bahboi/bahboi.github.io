@@ -1,4 +1,4 @@
 baseURL = 'http://bahboi.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Site'
 theme = "ananke"
