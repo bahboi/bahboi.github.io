@@ -15,6 +15,7 @@ paginate=5 # articles per page
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "[We cannot reason ourselves out of our basic irrationality. All we can do is learn the art of being irrational in a reasonable way. ― Aldous Huxley, Island](/)"
+	favicon = "/favicon-32x32.png"
 
 # It isn't a matter of forgetting. What one has to learn is how to remember and yet be free of the past.
 
